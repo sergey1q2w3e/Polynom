@@ -1,0 +1,6 @@
+c:\users\prygunov\documents\visual studio 2013\Projects\SandBox\SandBox\bin\Debug\SandBox.exe.config
+c:\users\prygunov\documents\visual studio 2013\Projects\SandBox\SandBox\bin\Debug\SandBox.exe
+c:\users\prygunov\documents\visual studio 2013\Projects\SandBox\SandBox\bin\Debug\SandBox.pdb
+c:\users\prygunov\documents\visual studio 2013\Projects\SandBox\SandBox\obj\Debug\SandBox.csprojResolveAssemblyReference.cache
+c:\users\prygunov\documents\visual studio 2013\Projects\SandBox\SandBox\obj\Debug\SandBox.exe
+c:\users\prygunov\documents\visual studio 2013\Projects\SandBox\SandBox\obj\Debug\SandBox.pdb
