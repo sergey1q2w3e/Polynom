@@ -40,13 +40,14 @@ namespace SandBox
             double[] coefIntegral = Integral(dim, coeff);
             double resIntegral = IntegralDefinite(2, dim, coeff);
             Console.WriteLine(resIntegral);
-            Console.Read();
             //out
             string s_out ="";
-            for(int i = coeff.Length-1; i<0; i--)
+            for (int i = 0; i < coeff.Length; i++)
             {
-                s_out+=String.Format(coeff[i]+"x^");
+                s_out += String.Format((coeff[i] > 0 && i != 0 ? "+" : "") + coeff[i] + "x^" + (dim - i));
             }
+            Console.WriteLine(s_out);
+            Console.Read();
         }
 
         static double IntegralDefinite(int value, int dim, double[] coeff)
